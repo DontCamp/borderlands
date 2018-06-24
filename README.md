@@ -46,3 +46,26 @@ BL2
 TPS
 
 ```C:\Windows\System32\cmd.exe /c %HOMEPATH%\Documents\"My Games"\"Borderlands The Pre-Sequel"\Binaries\dlpatch.bat & %command% -NoLauncher```
+
+## Mod List
+### BL2
+* [#MakeVendorsGreatAgain2017](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Jim%20Raven/%23MakeVendorsGreatAgain2017)
+* [BetterVehicles](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Teratorn43906/Better%20Vehicles%20(SLAG%20IMMUNITY!%20NO%2C%20I'M%20NOT%20JOKING)/BetterVehicles.txt)
+* [BL2 No Wasted COMs](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Apocalyptech/BL2%20No%20Wasted%20COMs/BL2%20No%20Wasted%20COMs.txt)
+* [ButtStallion](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/EmpireScum/ButtStallion.txt)
+* [CarAnywhere](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/FromDarkHell/Car%20Changes/CarAnywhere.txt)
+* [CarReplacements](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/FromDarkHell/Car%20Changes/CarReplacements.txt)
+* [Golden Chest is Free](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Naarin/Golden%20Chest%20is%20Free%20(FilterTool))
+* [Item lvl Fix](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/VexilleSerra/Item%20lvl%20Fix)
+* [More Loot Midget Containers](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Apocalyptech/More%20Loot%20Midget%20Containers/More%20Loot%20Midget%20Containers.txt)
+* [No Respec Cost](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/AngrierPat/Quality%20of%20life%20changes/No%20Respec%20Cost)
+* [NoMuzzleflashes](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Sommer/QUALITY%20OF%20LIFE/NoMuzzleflashes.txt)
+* [second chances](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Ethel/Second%20Chances/second%20chances.txt)
+* [STV no self dmg](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Ethel/STV%20no%20self%20dmg/STV%20no%20self%20dmg.txt)
+* [ToggleGaige](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/soze/Experimental/Toggle%20Skills%20(hotfix)/ToggleGaige.txt)
+* [TurretRecall(hotfix)](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/theNocturni/Axton/TurretRecall(hotfix).txt)
+* [Speedier Sandskiffs](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Apocalyptech/Speedier%20Sandskiffs/Speedier%20Sandskiffs.txt)
+
+### TPS
+Just the UCP, for now.
+
