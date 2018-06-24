@@ -61,10 +61,10 @@ TPS
 * [No Respec Cost](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/AngrierPat/Quality%20of%20life%20changes/No%20Respec%20Cost)
 * [NoMuzzleflashes](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Sommer/QUALITY%20OF%20LIFE/NoMuzzleflashes.txt)
 * [second chances](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Ethel/Second%20Chances/second%20chances.txt)
+* [Speedier Sandskiffs](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Apocalyptech/Speedier%20Sandskiffs/Speedier%20Sandskiffs.txt)
 * [STV no self dmg](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Ethel/STV%20no%20self%20dmg/STV%20no%20self%20dmg.txt)
 * [ToggleGaige](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/soze/Experimental/Toggle%20Skills%20(hotfix)/ToggleGaige.txt)
 * [TurretRecall(hotfix)](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/theNocturni/Axton/TurretRecall(hotfix).txt)
-* [Speedier Sandskiffs](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Apocalyptech/Speedier%20Sandskiffs/Speedier%20Sandskiffs.txt)
 
 ### TPS
 Just the UCP, for now.
