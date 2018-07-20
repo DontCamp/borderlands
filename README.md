@@ -1,5 +1,5 @@
 # Patches!
-Community Patch ([changelog](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Shadowevil/Full%20UCP%20Changelog.txt)) and Mods Collection for the DontCamp.com community
+Community Patch ([changelog](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Community%20Patch%20Team/Full%20UCP%20Changelog.txt)) and Mods Collection for the DontCamp.com community
 
 All credits to the [original authors](https://github.com/BLCM/BLCMods).  This repository serves as a way for DontCamp.com community members to more easily stay up to date with our latest patch set distribution.
 
@@ -58,7 +58,7 @@ TPS
 * [Golden Chest is Free](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Naarin/Golden%20Chest%20is%20Free%20(FilterTool))
 * [Item lvl Fix](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/VexilleSerra/Item%20lvl%20Fix)
 * [More Loot Midget Containers](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Apocalyptech/More%20Loot%20Midget%20Containers/More%20Loot%20Midget%20Containers.txt)
-* ~~[No Respec Cost](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/AngrierPat/Quality%20of%20life%20changes/No%20Respec%20Cost)~~
+* [No Respec Cost](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/AngrierPat/Quality%20of%20life%20changes/No%20Respec%20Cost)
 * [NoMuzzleflashes](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Sommer/QUALITY%20OF%20LIFE/NoMuzzleflashes.txt)
 * [second chances](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Ethel/Second%20Chances/second%20chances.txt)
 * [Speedier Sandskiffs](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Apocalyptech/Speedier%20Sandskiffs/Speedier%20Sandskiffs.txt)
@@ -72,4 +72,3 @@ TPS
 
 ### TPS
 Just the UCP, for now.
-
