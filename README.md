@@ -69,6 +69,8 @@ TPS
 * [LessClutteringParticles](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Sommer/QUALITY%20OF%20LIFE/LessClutteringParticles.txt)
 * [Rarity Color Fix](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Koby/Single%20Mods/Quality%20of%20Life%20and%20Fixes/Rarity%20Color%20Fix.txt)
 * [Fast_Travels2](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/splitzle/Fast_Travels2.txt)
+* [Physx fix](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Strange%20Mods/Physx%20fix)
+* [VarkidOverhaul](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/LightChaosman/VarkidOverhaul.txt)
 
 ### TPS
 Just the UCP, for now.
