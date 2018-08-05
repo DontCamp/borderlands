@@ -79,4 +79,4 @@ TPS
 * [TPS No Wasted COMs](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/TPS%20No%20Wasted%20COMs/TPS%20No%20Wasted%20COMs.blcm)
 * [CarAnywhere](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/FromDarkHell/Car%20Changes/CarAnywhere.txt)
 * [TPS Rarity Color Fix](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Koby/TPS%20Rarity%20Color%20Fix.txt)
-* [BuggReplace](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Laxlife/BuggyReplace.txt)
+* [BuggyReplace](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Laxlife/BuggyReplace.txt)
