@@ -74,4 +74,9 @@ TPS
 * [RepeatDon'tCopyThatFloppy](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/LollosaurusRex/Make%20Don-t%20Copy%20That%20Floppy%20Repeatable/RepeatDon'tCopyThatFloppy.blcm)
 
 ### TPS
-Just the UCP, for now.
+* [Speedier Moon Buggies](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/Speedier%20Moon%20Buggies/Speedier%20Moon%20Buggies.blcm)
+* [Speedier Stingrays](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/Speedier%20Stingrays/Speedier%20Stingrays.blcm)
+* [TPS No Wasted COMs](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/TPS%20No%20Wasted%20COMs/TPS%20No%20Wasted%20COMs.blcm)
+* [CarAnywhere](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/FromDarkHell/Car%20Changes/CarAnywhere.txt)
+* [TPS Rarity Color Fix](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Koby/TPS%20Rarity%20Color%20Fix.txt)
+* [BuggReplace](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Laxlife/BuggyReplace.txt)
