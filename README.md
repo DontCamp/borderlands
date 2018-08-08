@@ -80,3 +80,5 @@ TPS
 * [CarAnywhere](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/FromDarkHell/Car%20Changes/CarAnywhere.txt)
 * [TPS Rarity Color Fix](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Koby/TPS%20Rarity%20Color%20Fix.txt)
 * [BuggyReplace](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Laxlife/BuggyReplace.txt)
+* [No Respec Cost](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/AngrierPat/Quality%20of%20life%20changes/No%20Respec%20Cost.blcm)
+* [Item lvl Fix](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/VexilleSerra/Item%20lvl%20Fix.blcm)
