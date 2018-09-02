@@ -1,5 +1,5 @@
 # Patches!
-Community Patch ([changelog](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Community%20Patch%20Team/Full%20UCP%20Changelog.txt)) and Mods Collection for the DontCamp.com community
+Community Patch and Mods Collection for the DontCamp.com community
 
 All credits to the [original authors](https://github.com/BLCM/BLCMods).  This repository serves as a way for DontCamp.com community members to more easily stay up to date with our latest patch set distribution.
 
@@ -49,6 +49,7 @@ TPS
 
 ## Mod List
 ### BL2
+[Commnity Patch Changelog](https://raw.githubusercontent.com/BLCM/BLCMods/master/Borderlands%202%20mods/Community%20Patch%20Team/Full%20UCP%20Changelog.txt)
 * [#MakeVendorsGreatAgain2017](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Jim%20Raven/%23MakeVendorsGreatAgain2017)
 * [BetterVehicles](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Teratorn43906/Better%20Vehicles%20(SLAG%20IMMUNITY!%20NO%2C%20I'M%20NOT%20JOKING)/BetterVehicles.txt)
 * [BL2 No Wasted COMs](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Apocalyptech/BL2%20No%20Wasted%20COMs/BL2%20No%20Wasted%20COMs.txt)
@@ -72,13 +73,19 @@ TPS
 * [Physx fix](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Strange%20Mods/Physx%20fix)
 * [VarkidOverhaul](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/LightChaosman/VarkidOverhaul.txt)
 * [RepeatDon'tCopyThatFloppy](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/LollosaurusRex/Make%20Don-t%20Copy%20That%20Floppy%20Repeatable/RepeatDon'tCopyThatFloppy.blcm)
+* [BL2 Container TimeSaver XL](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Apocalyptech/BL2%20Container%20TimeSaver%20XL/BL2%20Container%20TimeSaver%20XL.blcm)
+* [No Crushers in Lair of Infinite Agony](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Apocalyptech/No%20Crushers%20in%20Lair%20of%20Infinite%20Agony/No%20Crushers%20in%20Lair%20of%20Infinite%20Agony.blcm)
+* [Better Slot Machines](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/World%20Mods/Better%20Slot%20Machines)
 
 ### TPS
+[Commnity Patch Changelog](https://raw.githubusercontent.com/BLCM/BLCMods/master/Pre%20Sequel%20Mods/Community%20Patch/Community%20Patch%202.2/Full%20Changelog)
 * [Speedier Moon Buggies](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/Speedier%20Moon%20Buggies/Speedier%20Moon%20Buggies.blcm)
 * [Speedier Stingrays](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/Speedier%20Stingrays/Speedier%20Stingrays.blcm)
-* [TPS No Wasted COMs](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/TPS%20No%20Wasted%20COMs/TPS%20No%20Wasted%20COMs.blcm)
+* ~~[TPS No Wasted COMs](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/TPS%20No%20Wasted%20COMs/TPS%20No%20Wasted%20COMs.blcm)~~ (now part of the UCP)
 * [CarAnywhere](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/FromDarkHell/Car%20Changes/CarAnywhere.txt)
 * [TPS Rarity Color Fix](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Koby/TPS%20Rarity%20Color%20Fix.txt)
 * [BuggyReplace](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Laxlife/BuggyReplace.txt)
 * [No Respec Cost](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/AngrierPat/Quality%20of%20life%20changes/No%20Respec%20Cost.blcm)
 * [Item lvl Fix](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/VexilleSerra/Item%20lvl%20Fix.blcm)
+* [TPS Container TimeSaver XL](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/TPS%20Container%20TimeSaver%20XL/TPS%20Container%20TimeSaver%20XL.blcm)
+* [Infinite Air Boosts](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/Infinite%20Air%20Boosts/Infinite%20Air%20Boosts.blcm)
