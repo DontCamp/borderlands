@@ -70,7 +70,7 @@ TPS
 * [LessClutteringParticles](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Sommer/QUALITY%20OF%20LIFE/LessClutteringParticles.txt)
 * [Rarity Color Fix](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Koby/Single%20Mods/Quality%20of%20Life%20and%20Fixes/Rarity%20Color%20Fix.txt)
 * [Fast_Travels2](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/splitzle/Fast_Travels2.txt)
-* [Physx fix](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Strange%20Mods/Physx%20fix)
+* ~~[Physx fix](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Strange%20Mods/Physx%20fix)~~
 * [VarkidOverhaul](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/LightChaosman/VarkidOverhaul.txt)
 * [RepeatDon'tCopyThatFloppy](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/LollosaurusRex/Make%20Don-t%20Copy%20That%20Floppy%20Repeatable/RepeatDon'tCopyThatFloppy.blcm)
 * [BL2 Container TimeSaver XL](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Apocalyptech/BL2%20Container%20TimeSaver%20XL/BL2%20Container%20TimeSaver%20XL.blcm)
@@ -81,8 +81,10 @@ TPS
 * [GunlessUniqueDropSoundNotifier](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/GunlessUniqueDropSoundNotifier.blcm)
 * [NO_MORE_ORDERS](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Exotek/QOL/NO_MORE_ORDERS.blcm)
 * [OPTIONAL_OBJECTIVES+_](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Exotek/QOL/OPTIONAL_OBJECTIVES%2B_.blcm)
-* [PhaselockTweaks](://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/55tumbl/Skill%20Changes/PhaselockTweaks.blcm)
+* [PhaselockTweaks](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/55tumbl/Skill%20Changes/PhaselockTweaks.blcm)
 * [Vanilla Enhanced](https://www.nexusmods.com/borderlands2/mods/88)
+* [AutoTrashOrFavorite](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/AutoTrashOrFavorite.blcm)
+* [FastTravelFromAnywhere](ttps://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/FastTravelFromAnywhere.blcm)
 
 ### TPS
 [Commnity Patch Changelog](https://raw.githubusercontent.com/BLCM/BLCMods/master/Pre%20Sequel%20Mods/Community%20Patch/Community%20Patch%202.2/Full%20Changelog)
