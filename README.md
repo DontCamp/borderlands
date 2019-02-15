@@ -69,7 +69,7 @@ TPS
 * [PartNotifier](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/FromDarkHell/Quality%20of%20Life/PartNotifier.txt)
 * [LessClutteringParticles](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Sommer/QUALITY%20OF%20LIFE/LessClutteringParticles.txt)
 * [Rarity Color Fix](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Koby/Single%20Mods/Quality%20of%20Life%20and%20Fixes/Rarity%20Color%20Fix.txt)
-* [Fast_Travels2](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/splitzle/Fast_Travels2.txt)
+* ~~[Fast_Travels2](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/splitzle/Fast_Travels2.txt)~~
 * ~~[Physx fix](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Strange%20Mods/Physx%20fix)~~
 * [VarkidOverhaul](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/LightChaosman/VarkidOverhaul.txt)
 * [RepeatDon'tCopyThatFloppy](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/LollosaurusRex/Make%20Don-t%20Copy%20That%20Floppy%20Repeatable/RepeatDon'tCopyThatFloppy.blcm)
@@ -84,7 +84,7 @@ TPS
 * [PhaselockTweaks](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/55tumbl/Skill%20Changes/PhaselockTweaks.blcm)
 * [Vanilla Enhanced](https://www.nexusmods.com/borderlands2/mods/88)
 * [AutoTrashOrFavorite](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/AutoTrashOrFavorite.blcm)
-* [FastTravelFromAnywhere](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/FastTravelFromAnywhere.blcm)
+* [Fast Travel - Bank - Stash - Quick Change From Anywhere](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/Fast%20Travel%20-%20Bank%20-%20Stash%20-%20Quick%20Change%20From%20Anywhere.blcm)
 
 ### TPS
 [Commnity Patch Changelog](https://raw.githubusercontent.com/BLCM/BLCMods/master/Pre%20Sequel%20Mods/Community%20Patch/Community%20Patch%202.2/Full%20Changelog)
