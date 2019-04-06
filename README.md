@@ -69,8 +69,6 @@ TPS
 * [PartNotifier](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/FromDarkHell/Quality%20of%20Life/PartNotifier.txt)
 * [LessClutteringParticles](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Sommer/QUALITY%20OF%20LIFE/LessClutteringParticles.txt)
 * [Rarity Color Fix](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Koby/Single%20Mods/Quality%20of%20Life%20and%20Fixes/Rarity%20Color%20Fix.txt)
-* ~~[Fast_Travels2](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/splitzle/Fast_Travels2.txt)~~
-* ~~[Physx fix](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Strange%20Mods/Physx%20fix)~~
 * [VarkidOverhaul](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/LightChaosman/VarkidOverhaul.txt)
 * [RepeatDon'tCopyThatFloppy](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/LollosaurusRex/Make%20Don-t%20Copy%20That%20Floppy%20Repeatable/RepeatDon'tCopyThatFloppy.blcm)
 * [BL2 Container TimeSaver XL](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Apocalyptech/BL2%20Container%20TimeSaver%20XL/BL2%20Container%20TimeSaver%20XL.blcm)
@@ -85,12 +83,13 @@ TPS
 * [Vanilla Enhanced](https://www.nexusmods.com/borderlands2/mods/88)
 * [AutoTrashOrFavorite](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/AutoTrashOrFavorite.blcm)
 * [Fast Travel - Bank - Stash - Quick Change From Anywhere](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/Fast%20Travel%20-%20Bank%20-%20Stash%20-%20Quick%20Change%20From%20Anywhere.blcm)
+* [LargerMidgetContainers](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/LargerMidgetContainers.blcm)
+* [UncappedPauseMenuSettings](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/UncappedPauseMenuSettings.blcm)
 
 ### TPS
 [Commnity Patch Changelog](https://raw.githubusercontent.com/BLCM/BLCMods/master/Pre%20Sequel%20Mods/Community%20Patch/Community%20Patch%202.2/Full%20Changelog)
 * [Speedier Moon Buggies](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/Speedier%20Moon%20Buggies/Speedier%20Moon%20Buggies.blcm)
 * [Speedier Stingrays](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/Speedier%20Stingrays/Speedier%20Stingrays.blcm)
-* ~~[TPS No Wasted COMs](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/TPS%20No%20Wasted%20COMs/TPS%20No%20Wasted%20COMs.blcm)~~ (now part of the UCP)
 * [CarAnywhere](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/FromDarkHell/Car%20Changes/CarAnywhere.txt)
 * [TPS Rarity Color Fix](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Koby/TPS%20Rarity%20Color%20Fix.txt)
 * [BuggyReplace](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Laxlife/BuggyReplace.txt)
@@ -98,3 +97,4 @@ TPS
 * [Item lvl Fix](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/VexilleSerra/Item%20lvl%20Fix.blcm)
 * [TPS Container TimeSaver XL](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/TPS%20Container%20TimeSaver%20XL/TPS%20Container%20TimeSaver%20XL.blcm)
 * [Infinite Air Boosts](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/Infinite%20Air%20Boosts/Infinite%20Air%20Boosts.blcm)
+* [TPSUncappedPauseMenuSettings](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/OurLordAndSaviorGabeNewell/TPSUncappedPauseMenuSettings.blcm)
