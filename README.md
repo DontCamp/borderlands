@@ -98,3 +98,6 @@ TPS
 * [TPS Container TimeSaver XL](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/TPS%20Container%20TimeSaver%20XL/TPS%20Container%20TimeSaver%20XL.blcm)
 * [Infinite Air Boosts](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/Infinite%20Air%20Boosts/Infinite%20Air%20Boosts.blcm)
 * [TPSUncappedPauseMenuSettings](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/OurLordAndSaviorGabeNewell/TPSUncappedPauseMenuSettings.blcm)
+* [Weapon View Offset Code](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/iNSANE990/Weapon%20View%20Offset%20Code.blcm)
+* [Double Quest Rewards](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Astor/Quests%20Improvement/Double%20Quest%20Rewards/Double%20Quest%20Rewards%20v1.0.0.blcm)
+* [FastTravelHelper](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/apple1417/FastTravelHelper.blcm)
