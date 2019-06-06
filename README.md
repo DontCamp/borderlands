@@ -87,7 +87,7 @@ TPS
 * [UncappedPauseMenuSettings](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/UncappedPauseMenuSettings.blcm)
 * [FreeRaidCost](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/TheBestPartyI'veEverThrown.CL4P-TP)
 * [LessDumbVisuals](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Freya/QUALITY%20OF%20LIFE/LessDumbVisuals.blcm)
-~* [ARPGStyleLootBeams](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/ARPGStyleLootBeams.blcm)~
+* ~[ARPGStyleLootBeams](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/ARPGStyleLootBeams.blcm)~
 * [BlockingDoorRemoval](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/BlockingDoorRemoval.blcm)
 * [HeadAndSkinUsabilityUnlocker](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/HeadAndSkinUsabilityUnlocker.blcm)
 * [RespawningLoot](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/RespawningLoot.blcm)
