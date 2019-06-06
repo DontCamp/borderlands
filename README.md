@@ -5,13 +5,13 @@ All credits to the [original authors](https://github.com/BLCM/BLCMods).  This re
 
 ## Configuration
 
-1. Save [BorderlandsPatcher.exe](https://github.com/bugworm/BorderlandsPatcher/releases/) to any directory you wish.
+1. Run [Borderlands-Hex-Multitool](https://github.com/c0dycode/Borderlands-Hex-Multitool)
 
-2. Run the program. It will auto-detect your Steam-provided binary for Borderlands 2 (BL2) and Borderlands The Pre-Sequel (TPS).
+2. In the program, select the appropriate game (BL2|TPS) via the icon at top left.
 
-3. In the program, select the appropriate game (BL2|TPS) via the first drop-down menu. Then, select **Patch (BL2|TPS).exe** and wait for the action to complete.
+3. Ensure the **Console and Set Command** option is enabled.  Configure the key you wish to bind the console to.
 
-4. Select **Add Console Hotkey**. Do not select **Download Patch**, since the DontCamp.com patch is customized beyond the defaults. You may now close **BorderlandsPatcher.exe**
+4. Select **Apply**. You may now close the program.
 
 5. Save our customized **Patch.txt** ([BL2](https://raw.githubusercontent.com/DontCamp/borderlands/master/bl2/Patch.txt)|[TPS](https://raw.githubusercontent.com/DontCamp/borderlands/master/tps/Patch.txt)) for the appropriate game to 
 
