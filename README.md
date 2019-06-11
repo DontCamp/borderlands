@@ -94,6 +94,8 @@ TPS
 * [RespawningEnemiesAndAllies](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/RespawningEnemiesAndAllies.blcm)
 * ~[Teleport](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/Teleport.txt)~
 * [TheBestPartyI'veEverThrown](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/TheBestPartyI'veEverThrown.CL4P-TP)
+* [AnemoneFastTravels](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/apple1417/AnemoneFastTravels.blcm)
+* [LootDespawner](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/LootDespawner.blcm)
 
 ### TPS
 [Commnity Patch Changelog](https://raw.githubusercontent.com/BLCM/BLCMods/master/Pre%20Sequel%20Mods/Community%20Patch/Community%20Patch%202.2/Full%20Changelog)
