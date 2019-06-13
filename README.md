@@ -96,6 +96,8 @@ TPS
 * [TheBestPartyI'veEverThrown](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/TheBestPartyI'veEverThrown.CL4P-TP)
 * [AnemoneFastTravels](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/apple1417/AnemoneFastTravels.blcm)
 * [LootDespawner](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/LootDespawner.blcm)
+* [EZAmmoVendors](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Ethel/EZ%20Ammo%20Vendors/EZAmmoVendors.txt)
+* [Firing Range Vendors](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Ethel/Firing%20Range%20Vendors/Firing%20Range%20Vendors.blcm)
 
 ### TPS
 [Commnity Patch Changelog](https://raw.githubusercontent.com/BLCM/BLCMods/master/Pre%20Sequel%20Mods/Community%20Patch/Community%20Patch%202.2/Full%20Changelog)
