@@ -84,7 +84,7 @@ TPS
 * [Fast Travel - Bank - Stash - Quick Change From Anywhere](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/Fast%20Travel%20-%20Bank%20-%20Stash%20-%20Quick%20Change%20From%20Anywhere.blcm)
 * [LargerMidgetContainers](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/LargerMidgetContainers.blcm)
 * [UncappedPauseMenuSettings](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/UncappedPauseMenuSettings.blcm)
-* [FreeRaidCost](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/TheBestPartyI'veEverThrown.CL4P-TP)
+* [FreeRaidCost](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Freya/QUALITY%20OF%20LIFE/FreeRaidCost.blcm)
 * [LessDumbVisuals](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Freya/QUALITY%20OF%20LIFE/LessDumbVisuals.blcm)
 * ~[ARPGStyleLootBeams](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/ARPGStyleLootBeams.blcm)~
 * [BlockingDoorRemoval](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/BlockingDoorRemoval.blcm)
@@ -99,6 +99,14 @@ TPS
 * [Firing Range Vendors](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Ethel/Firing%20Range%20Vendors/Firing%20Range%20Vendors.blcm)
 * [BL2 Configurable Slot Machines](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Apocalyptech/BL2%20Configurable%20Slot%20Machines/BL2%20Configurable%20Slot%20Machines.blcm)
 * [Cheaper Black Market](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Coleby/Cheaper%20Black%20Market)
+* [GrogNozzleMissionReward](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Jim%20Raven/GrogNozzleMissionReward)
+* [More Rare Midgets](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Spawn%20Rates/More%20Rare%20Midgets)
+* [World Spawn Loot Midgets](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Spawn%20Rates/World%20Spawn%20Loot%20Midgets)
+* [LootMidgetWorld](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/mopioid/LootMidgetWorld.blcm)
+* [BL2 Better Loot Mod](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech/BL2%20Better%20Loot%20Mod)
+* [Better Quests](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Quest%20Rewards/Better%20Quests)
+* [More Chests on Pandora](https://www.nexusmods.com/borderlands2/mods/99)
+* [DerpTrap](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Ethel/DerpTrap)
 
 ### TPS
 [Commnity Patch Changelog](https://raw.githubusercontent.com/BLCM/BLCMods/master/Pre%20Sequel%20Mods/Community%20Patch/Community%20Patch%202.2/Full%20Changelog)
