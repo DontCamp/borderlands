@@ -17,15 +17,15 @@ All credits to the [original authors](https://github.com/BLCM/BLCMods).  This re
 
 ```%HOMEPATH%\Documents\My Games\Borderlands 2\Binaries\Patch.txt```
 
-OR 
+OR
 
 ```%HOMEPATH%\Documents\My Games\Borderlands The Pre-Sequel\Binaries\Patch.txt```
 
-6. Run the game, and at the main menu screen, bring up the console and run **exec patch.txt**. This must be done each time you run the game. Note that the doskey history persists between runs. 
+6. Run the game, and at the main menu screen, bring up the console and run **exec patch.txt**. This must be done each time you run the game. Note that the doskey history persists between runs.
 
 ## Automatic Updates
 
-Our distribution of the patch changes sometimes.  In order to keep all players current, automation is provided that will update **Patch.txt** when the game is launched.  
+Our distribution of the patch changes sometimes.  In order to keep all players current, automation is provided that will update **Patch.txt** when the game is launched.
 
 Notable downsides of this automation are that the file is re-downloaded every time, due to limitations of the built-in Windows **Invoke-WebRequest** (aliased to **wget**) PowerShell cmdlet, and if your **cmd.exe** binary is somehow not on your **C:** drive, then you are pretty silly.  This was intended as a way to avoid having to install Cygwin or Windows Subsystem for Linux, but for nerds who have that stuff installed, an alternate method using a proper **wget** binary which can avoid re-downloading unchanged files would be cool.
 
@@ -78,7 +78,7 @@ TPS
 * [GunlessUniqueDropSoundNotifier](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/GunlessUniqueDropSoundNotifier.blcm)
 * [NO_MORE_ORDERS](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Exotek/QOL/NO_MORE_ORDERS.blcm)
 * [OPTIONAL_OBJECTIVES+_](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Exotek/QOL/OPTIONAL_OBJECTIVES%2B_.blcm)
-* [PhaselockTweaks](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/55tumbl/Skill%20Changes/PhaselockTweaks.blcm)
+* ~[PhaselockTweaks](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/55tumbl/Skill%20Changes/PhaselockTweaks.blcm)~
 * [Vanilla Enhanced](https://www.nexusmods.com/borderlands2/mods/88)
 * [AutoTrashOrFavorite](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/AutoTrashOrFavorite.blcm)
 * [Fast Travel - Bank - Stash - Quick Change From Anywhere](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/Fast%20Travel%20-%20Bank%20-%20Stash%20-%20Quick%20Change%20From%20Anywhere.blcm)
@@ -107,6 +107,7 @@ TPS
 * [Better Quests](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Quest%20Rewards/Better%20Quests)
 * [More Chests on Pandora](https://www.nexusmods.com/borderlands2/mods/99)
 * [DerpTrap](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Ethel/DerpTrap)
+* [Exp++](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Jim%20Raven/Exp%2B%2B)
 
 ### TPS
 [Commnity Patch Changelog](https://raw.githubusercontent.com/BLCM/BLCMods/master/Pre%20Sequel%20Mods/Community%20Patch/Community%20Patch%202.2/Full%20Changelog)
