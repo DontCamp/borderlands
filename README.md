@@ -108,6 +108,7 @@ TPS
 * [More Chests on Pandora](https://www.nexusmods.com/borderlands2/mods/99)
 * [DerpTrap](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Ethel/DerpTrap)
 * [Exp++](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Jim%20Raven/Exp%2B%2B)
+* [More Chubbies](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Hemaxhu/Spawn%20Rates/More%20Chubbies)
 
 ### TPS
 [Commnity Patch Changelog](https://raw.githubusercontent.com/BLCM/BLCMods/master/Pre%20Sequel%20Mods/Community%20Patch/Community%20Patch%202.2/Full%20Changelog)
