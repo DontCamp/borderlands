@@ -58,7 +58,7 @@ TPS
 * [MoreVehicles](https://github.com/BLCM/BLCMods/blob/master/Borderlands 2 mods/OurLordAndSaviorGabeNewell/MoreVehicles.blcm)
 * [Golden Chest is Free](https://github.com/BLCM/BLCMods/blob/master/Borderlands 2 mods/Naarin/Golden Chest is Free (FilterTool))
 * [Item lvl Fix](https://github.com/BLCM/BLCMods/blob/master/Borderlands 2 mods/VexilleSerra/Item lvl Fix)
-* [More Loot Midget Containers](https://github.com/BLCM/BLCMods/blob/master/Borderlands 2 mods/Apocalyptech/More Loot Midget Containers/More Loot Midget Containers.txt)
+* ~[More Loot Midget Containers](https://github.com/BLCM/BLCMods/blob/master/Borderlands 2 mods/Apocalyptech/More Loot Midget Containers/More Loot Midget Containers.txt)~
 * [No Respec Cost](https://github.com/BLCM/BLCMods/blob/master/Borderlands 2 mods/AngrierPat/Quality of life changes/No Respec Cost)
 * [NoMuzzleflashes](https://github.com/BLCM/BLCMods/blob/master/Borderlands 2 mods/Sommer/QUALITY OF LIFE/NoMuzzleflashes.txt)
 * [second chances](https://github.com/BLCM/BLCMods/blob/master/Borderlands 2 mods/Ethel/Second Chances/second chances.txt)
@@ -115,6 +115,10 @@ TPS
 * [ZoomedOutSights](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/TheDerpOfGames/ZoomedOutSights.txt)
 * [OPWeaponVendors](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Greem/OP%20Shit/OPWeaponVendors.txt)
 * ~[CryoElement](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Aaron0000/Overhauls/CryoElement.txt)~
+* [Phaselock(hotfix) v2.1](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/theNocturni/Phaselock/Phaselock(hotfix)%20v2.1.txt)
+* [MoxxiStash](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/CzRSpecV/MoxxiStash.txt)
+* [No Death Cost](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/AngrierPat/Quality%20of%20life%20changes/No%20Death%20Cost)
+* [More Muscles](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech/More%20Muscles)
 
 ### TPS
 [Commnity Patch Changelog](https://raw.githubusercontent.com/BLCM/BLCMods/master/Pre Sequel Mods/Community Patch/Community Patch 2.2/Full Changelog)
