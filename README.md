@@ -119,6 +119,7 @@ TPS
 * [MoxxiStash](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/CzRSpecV/MoxxiStash.txt)
 * [No Death Cost](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/AngrierPat/Quality%20of%20life%20changes/No%20Death%20Cost)
 * [More Muscles](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech/More%20Muscles)
+* [AlwaysElementalSandhawk](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Alex/AlwaysElementalSandhawk)
 
 ### TPS
 [Commnity Patch Changelog](https://raw.githubusercontent.com/BLCM/BLCMods/master/Pre Sequel Mods/Community Patch/Community Patch 2.2/Full Changelog)
