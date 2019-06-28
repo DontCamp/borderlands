@@ -58,7 +58,7 @@ TPS
 * [MoreVehicles](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/MoreVehicles.blcm)
 * [Golden Chest is Free](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Naarin/Golden%20Chest%20is%20Free%20(FilterTool))
 * [Item lvl Fix](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/VexilleSerra/Item%20lvl%20Fix)
-* [More Loot Midget Containers](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Apocalyptech/More%20Loot%20Midget%20Containers/More%20Loot%20Midget%20Containers.txt)
+* ~[More Loot Midget Containers](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Apocalyptech/More%20Loot%20Midget%20Containers/More%20Loot%20Midget%20Containers.txt)~
 * [No Respec Cost](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/AngrierPat/Quality%20of%20life%20changes/No%20Respec%20Cost)
 * [NoMuzzleflashes](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Sommer/QUALITY%20OF%20LIFE/NoMuzzleflashes.txt)
 * [second chances](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Ethel/Second%20Chances/second%20chances.txt)
@@ -66,10 +66,10 @@ TPS
 * ~[STV no self dmg](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Ethel/STV%20no%20self%20dmg/STV%20no%20self%20dmg.txt)~
 * [ToggleGaige](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/soze/Experimental/Toggle%20Skills%20(hotfix)/ToggleGaige.txt)
 * [TurretRecall(hotfix)](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/theNocturni/Axton/TurretRecall(hotfix).txt)
-* [PartNotifier](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/FromDarkHell/Quality%20of%20Life/PartNotifier.txt)
+* ~[PartNotifier](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/FromDarkHell/Quality%20of%20Life/PartNotifier.txt)~
 * [LessClutteringParticles](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Sommer/QUALITY%20OF%20LIFE/LessClutteringParticles.txt)
 * [Rarity Color Fix](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Koby/Single%20Mods/Quality%20of%20Life%20and%20Fixes/Rarity%20Color%20Fix.txt)
-* [VarkidOverhaul](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/LightChaosman/VarkidOverhaul.txt)
+* ~[VarkidOverhaul](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/LightChaosman/VarkidOverhaul.txt)~
 * [RepeatDon'tCopyThatFloppy](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/LollosaurusRex/Make%20Don-t%20Copy%20That%20Floppy%20Repeatable/RepeatDon'tCopyThatFloppy.blcm)
 * [BL2 Container TimeSaver XL](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Apocalyptech/BL2%20Container%20TimeSaver%20XL/BL2%20Container%20TimeSaver%20XL.blcm)
 * [No Crushers in Lair of Infinite Agony](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Apocalyptech/No%20Crushers%20in%20Lair%20of%20Infinite%20Agony/No%20Crushers%20in%20Lair%20of%20Infinite%20Agony.blcm)
@@ -88,7 +88,7 @@ TPS
 * [LessDumbVisuals](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Freya/QUALITY%20OF%20LIFE/LessDumbVisuals.blcm)
 * ~[ARPGStyleLootBeams](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/ARPGStyleLootBeams.blcm)~
 * [BlockingDoorRemoval](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/BlockingDoorRemoval.blcm)
-* [HeadAndSkinUsabilityUnlocker](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/HeadAndSkinUsabilityUnlocker.blcm)
+* ~[HeadAndSkinUsabilityUnlocker](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/HeadAndSkinUsabilityUnlocker.blcm)~
 * [RespawningLoot](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/RespawningLoot.blcm)
 * [RespawningEnemiesAndAllies](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/RespawningEnemiesAndAllies.blcm)
 * ~[Teleport](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/Teleport.txt)~
