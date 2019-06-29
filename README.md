@@ -122,7 +122,7 @@ TPS
 * [AlwaysElementalSandhawk](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Alex/AlwaysElementalSandhawk)
 
 ### TPS
-[Commnity Patch Changelog](https://raw.githubusercontent.com/BLCM/BLCMods/master/Pre%20Sequel%20Mods/Community%20Patch/Community%20Patch%202.2/Full%20Changelog)
+[Commnity Patch Changelog](https://raw.githubusercontent.com/BLCM/BLCMods/master/Pre%20Sequel%20Mods/Community%20Patch/Full%20Changelog%202.2)
 * [Speedier Moon Buggies](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/Speedier%20Moon%20Buggies/Speedier%20Moon%20Buggies.blcm)
 * [Speedier Stingrays](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/Speedier%20Stingrays/Speedier%20Stingrays.blcm)
 * [CarAnywhere](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/FromDarkHell/Car%20Changes/CarAnywhere.txt)
@@ -136,3 +136,16 @@ TPS
 * [Weapon View Offset Code](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/iNSANE990/Weapon%20View%20Offset%20Code.blcm)
 * [Double Quest Rewards](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Astor/Quests%20Improvement/Double%20Quest%20Rewards/Double%20Quest%20Rewards%20v1.0.0.blcm)
 * [FastTravelHelper](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/apple1417/FastTravelHelper.blcm)
+* [TPS Configurable Slot Machines](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/TPS%20Configurable%20Slot%20Machines/TPS%20Configurable%20Slot%20Machines.blcm)
+* [TPS Better Loot Mod](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Apocalyptech/TPS%20Better%20Loot%20Mod/TPS%20Better%20Loot%20Mod.blcm)
+* [Moonstone Grind No Longer Costs Moonstone](https://www.nexusmods.com/borderlandspresequel/mods/21)
+* [Shorter Fast Travel Waiting Time v1.0.0](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Astor/Quality%20of%20Life/Shorter%20Fast%20Travel%20Waiting%20Time/Shorter%20Fast%20Travel%20Waiting%20Time%20v1.0.0.blcm)
+* [No More Reload Messages v1.0.0](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Astor/Quality%20of%20Life/No%20More%20Reload%20Message/No%20More%20Reload%20Messages%20v1.0.0.blcm)
+* [No More Fast Travel Animation v1.0.0](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Astor/Quality%20of%20Life/No%20More%20Fast%20Travel%20Animation/No%20More%20Fast%20Travel%20Animation%20v1.0.0.blcm)
+* [More Pick-Up Radius v1.0.0](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Astor/Quality%20of%20Life/More%20Pick-Up%20Radius/More%20Pick-Up%20Radius%20v1.0.0.blcm)
+* [TPSRespawningLoot](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/OurLordAndSaviorGabeNewell/TPSRespawningLoot.blcm)
+* [TPSRespawningEnemiesAndAllies](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/OurLordAndSaviorGabeNewell/TPSRespawningEnemiesAndAllies.blcm)
+* [EXP+](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Jim%20Raven/EXP%2B)
+* [RespawnableExcalibastard](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Freya/QUALITY%20OF%20LIFE/RespawnableExcalibastard.blcm)
+* [BetterHandlingBuggies](https://github.com/BLCM/BLCMods/blob/master/Pre%20Sequel%20Mods/Freya/QUALITY%20OF%20LIFE/BetterHandlingBuggies.blcm)
+
