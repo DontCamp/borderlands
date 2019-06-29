@@ -120,6 +120,8 @@ TPS
 * [No Death Cost](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/AngrierPat/Quality%20of%20life%20changes/No%20Death%20Cost)
 * [More Muscles](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech/More%20Muscles)
 * [AlwaysElementalSandhawk](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Alex/AlwaysElementalSandhawk)
+* [Seeker](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Greem/OP%20Shit/Seeker.txt)
+* [ToggleSal](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/soze/Experimental/Toggle%20Skills%20(hotfix)/ToggleSal.txt)
 
 ### TPS
 [Commnity Patch Changelog](https://raw.githubusercontent.com/BLCM/BLCMods/master/Pre%20Sequel%20Mods/Community%20Patch/Full%20Changelog%202.2)
