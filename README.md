@@ -123,7 +123,7 @@ TPS
 * [Seeker](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Greem/OP%20Shit/Seeker.txt)
 * ~[ToggleSal](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/soze/Experimental/Toggle%20Skills%20(hotfix)/ToggleSal.txt)~
 * [double auto pickup range](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Ethel/small%20snipets/double%20auto%20pickup%20range.txt)
-* [Disable Pickup Equip and Down Suicide](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Checometer/Disable%20Pickup%20Equip%20and%20Down%20Suicide.txt)
+* ~[Disable Pickup Equip and Down Suicide](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Checometer/Disable%20Pickup%20Equip%20and%20Down%20Suicide.txt)~
 * [Red Text explainer](https://www.nexusmods.com/borderlands2/mods/214/)
 * [Customizable-Boosted-Characters](https://github.com/BLCM/ModCabinet/wiki/Customizable-Boosted-Characters)
 
