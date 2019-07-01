@@ -126,6 +126,7 @@ TPS
 * ~[Disable Pickup Equip and Down Suicide](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Checometer/Disable%20Pickup%20Equip%20and%20Down%20Suicide.txt)~
 * [Red Text explainer](https://www.nexusmods.com/borderlands2/mods/214/)
 * [Customizable-Boosted-Characters](https://github.com/BLCM/ModCabinet/wiki/Customizable-Boosted-Characters)
+* [Better FFYL](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Ostrix/Quality%20Of%20Life/Better%20FFYL.blcm)
 
 ### TPS
 [Commnity Patch Changelog](https://raw.githubusercontent.com/BLCM/BLCMods/master/Pre%20Sequel%20Mods/Community%20Patch/Full%20Changelog%202.2)
