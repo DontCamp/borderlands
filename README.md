@@ -81,7 +81,7 @@ TPS
 * ~[PhaselockTweaks](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/55tumbl/Skill%20Changes/PhaselockTweaks.blcm)~
 * [Vanilla Enhanced](https://www.nexusmods.com/borderlands2/mods/88)
 * [AutoTrashOrFavorite](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/AutoTrashOrFavorite.blcm)
-* [Fast Travel - Bank - Stash - Quick Change From Anywhere](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/Fast%20Travel%20-%20Bank%20-%20Stash%20-%20Quick%20Change%20From%20Anywhere.blcm)
+* [FastTravel-Bank-Stash-QuickChangeFromAnywhere](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/FastTravel-Bank-Stash-QuickChangeFromAnywhere.blcm)
 * [LargerMidgetContainers](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/LargerMidgetContainers.blcm)
 * [UncappedPauseMenuSettings](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/OurLordAndSaviorGabeNewell/UncappedPauseMenuSettings.blcm)
 * [FreeRaidCost](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Freya/QUALITY%20OF%20LIFE/FreeRaidCost.blcm)
@@ -125,7 +125,7 @@ TPS
 * [double auto pickup range](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Ethel/small%20snipets/double%20auto%20pickup%20range.txt)
 * ~[Disable Pickup Equip and Down Suicide](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Checometer/Disable%20Pickup%20Equip%20and%20Down%20Suicide.txt)~
 * [Red Text explainer](https://www.nexusmods.com/borderlands2/mods/214/)
-* ~[Customizable-Boosted-Characters](https://github.com/BLCM/ModCabinet/wiki/Customizable-Boosted-Characters)~
+* [Customizable-Boosted-Characters](https://github.com/BLCM/ModCabinet/wiki/Customizable-Boosted-Characters)
 * [Better FFYL](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Ostrix/Quality%20Of%20Life/Better%20FFYL.blcm)
 * [Anarchy Rework](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/AngrierPat/Skill%20Changes/Anarchy%20Rework)
 
