@@ -20,3 +20,5 @@ https://raw.githubusercontent.com/BLCM/bl3mods/master/Apocalyptech/economy/bette
 https://raw.githubusercontent.com/BLCM/bl3mods/master/Apocalyptech/loot_changes/expanded_legendary_pools/expanded_legendary_pools.bl3hotfix
 https://raw.githubusercontent.com/BLCM/bl3mods/master/Apocalyptech/gear_changes/uniques_are_legendary/uniques_are_legendary.bl3hotfix
 https://raw.githubusercontent.com/BLCM/bl3mods/master/Apocalyptech/gear_changes/torgue_ar_full_auto/torgue_ar_full_auto.bl3hotfix
+https://raw.githubusercontent.com/BLCM/bl3mods/master/altef-4/3000_hyperion_slaughter.bl3hotfix
+https://raw.githubusercontent.com/BLCM/bl3mods/master/Apocalyptech/qol/disable_email_loyalty_rewards/disable_email_loyalty_rewards.bl3hotfix
