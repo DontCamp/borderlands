@@ -43,3 +43,4 @@ Community Patch is enabled.
 * ]   - Select next mission
 * Z   - end action skill
 * Right click in skill tree - unspec element
+* Select respec menu option at New U station - Skill Tree Loadouts 
