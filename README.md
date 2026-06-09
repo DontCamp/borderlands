@@ -20,7 +20,7 @@ Community Patch is enabled.
 1.  Find the game in Steam
 2.  Right click -> **Properties** -> **Launch Options**
 3.  Add the following to the **Launch Options**, updating the path to where you saved the
-**bl2-mods-updater.exe** - `"C:\path\to\bl2-mods-updater.exe" && %command%`
+**bl2-mods-updater.exe** - `"C:\path\to\bl2-mods-updater.exe" && %command% -nolauncher -nostartupmovies -NoSplash`
 
 
 ## Default Keybinds
