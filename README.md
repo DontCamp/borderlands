@@ -29,6 +29,7 @@ Community Patch is enabled.
 * 7 - bank
 * 8 - stash
 * 9 - quick change
+* F1 - fast travel
 * F2 - random skin
 * F4 - show bounty menu
 * F5 - show active bounties
@@ -36,6 +37,8 @@ Community Patch is enabled.
 * F7 - Quickload w/o saving
 * F8 - Quickload w/ saving
 * F9 - reset vendors
+* F10 - bank
+* F11 - stash
 * \   - respec
 * /   - Zoop loot to your location
 * Del - delete all loot
