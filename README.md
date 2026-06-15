@@ -24,26 +24,30 @@ Community Patch is enabled.
 
 
 ## Default Keybinds
-
-* 0 - fast travel
-* 7 - bank
-* 8 - stash
-* 9 - quick change
-* F1 - fast travel
-* F2 - random skin
-* F4 - show bounty menu
-* F5 - show active bounties
-* F6 - Save map location for quickload
-* F7 - Quickload w/o saving
-* F8 - Quickload w/ saving
-* F9 - reset vendors
-* F10 - bank
-* F11 - stash
-* \   - respec
-* /   - Zoop loot to your location
-* Del - delete all loot
-* [   - Select previous mission
-* ]   - Select next mission
-* Z   - end action skill
+* 0       - fast travel (BLCMM)
+* 7       - bank (BLCMM)
+* 8       - stash (BLCMM)
+* 9       - quick change (BLCMM)
+* F1      - fast travel (Better Spawns and Better Travel (BSABT) )
+* F2      - random skin (Skin Randomizer)
+* F4      - show bounty menu (Badass Bounties)
+* F5      - show active bounties (Badass Bounties)
+* F5      - save location (Map Reloader)
+* F7      - Quickload w/o saving (Map Reloader)
+* F8      - Quickload w/ saving (Map Reloader)
+* F9      - reset vendors (Shop Reseter)
+* F10     - bank (Bank & Stash Anywhere (BASA) )
+* F10     - Toggle location restore (Map Reloader)
+* F11     - stash  (Bank & Stash Anywhere (BASA) )
+* \       - respec
+* /       - Zoop loot to your location
+* Del     - delete all loot
+* [       - Select previous mission
+* ]       - Select next mission
+* Q       - Last used weapon (Weapon Quick Switcher)
+* S       - Set Deathtrap shield
+* Z       - end action skill
+* Numpad0 - Mark location for teleport
+* .       - Teleport
 * Right click in skill tree - unspec element
 * Select respec menu option at New U station - Skill Tree Loadouts 
