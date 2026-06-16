@@ -39,9 +39,8 @@ Community Patch is enabled.
 * F9      - reset vendors (Shop Reseter)
 * F10     - Toggle location restore (Map Reloader)
 * F11     - 
-* F12     -
+* F12     - Zoop loot to your location
 * \       - respec
-* L       - Zoop loot to your location
 * Del     - delete all loot
 * [       - Select previous mission
 * ]       - Select next mission
