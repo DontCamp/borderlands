@@ -23,31 +23,33 @@ Community Patch is enabled.
 **bl2-mods-updater.exe** - `"C:\path\to\bl2-mods-updater.exe" && %command% -nolauncher -nostartupmovies -NoSplash`
 
 
-## Default Keybinds
+# Default Keybinds
 * 0       - fast travel (BLCMM)
 * 7       - bank (BLCMM)
 * 8       - stash (BLCMM)
 * 9       - quick change (BLCMM)
 * F1      - fast travel (Better Spawns and Better Travel (BSABT) )
 * F2      - random skin (Skin Randomizer)
-* F4      - show bounty menu (Badass Bounties)
-* F5      - show active bounties (Badass Bounties)
+* F3      - Mark location for teleport
+* F4      - Teleport
 * F5      - save location (Map Reloader)
+* F6      - respawn enemies
 * F7      - Quickload w/o saving (Map Reloader)
 * F8      - Quickload w/ saving (Map Reloader)
 * F9      - reset vendors (Shop Reseter)
-* F10     - bank (Bank & Stash Anywhere (BASA) )
 * F10     - Toggle location restore (Map Reloader)
-* F11     - stash  (Bank & Stash Anywhere (BASA) )
+* F11     - 
+* F12     -
 * \       - respec
-* /       - Zoop loot to your location
+* L       - Zoop loot to your location
 * Del     - delete all loot
 * [       - Select previous mission
 * ]       - Select next mission
 * Q       - Last used weapon (Weapon Quick Switcher)
 * S       - Set Deathtrap shield
 * Z       - end action skill
-* Numpad0 - Mark location for teleport
-* .       - Teleport
 * Right click in skill tree - unspec element
-* Select respec menu option at New U station - Skill Tree Loadouts 
+* Select respec menu option at New U station - Skill Tree Loadouts
+* PGUP    - Ping
+* B       - show bounty menu (Badass Bounties)
+* N       - show active bounties (Badass Bounties)
