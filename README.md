@@ -45,7 +45,6 @@ Community Patch is enabled.
 * Del     - delete all loot
 * [       - Select previous mission
 * ]       - Select next mission
-* Q       - Last used weapon (Weapon Quick Switcher)
 * S       - Set Deathtrap shield
 * Z       - end action skill
 * Right click in skill tree - unspec element
