@@ -29,25 +29,24 @@ Community Patch is enabled.
 * 8       - stash (BLCMM)
 * 9       - quick change (BLCMM)
 * F1      - fast travel (Better Spawns and Better Travel (BSABT) )
-* F2      - random skin (Skin Randomizer)
-* F3      - Mark location for teleport
-* F4      - Teleport
-* F5      - save location (Map Reloader)
-* F6      - respawn enemies
-* F7      - Quickload w/o saving (Map Reloader)
-* F8      - Quickload w/ saving (Map Reloader)
-* F9      - reset vendors (Shop Reseter)
-* F10     - Toggle location restore (Map Reloader)
-* F11     - 
+* F2      - Mark location for teleport
+* F3      - Teleport
+* F4      - save location (Map Reloader)
+* F5      - Quickload w saving (Map Reloader)
+* F6      - Quickload w/o saving (Map Reloader)
+* F7      - Toggle location restore (Map Reloader)
+* F8      - show bounty menu (Badass Bounties)
+* F9      - show active bounties (Badass Bounties)
+* F10     - reset vendors (Shop Reseter)
+* F11     - Respawn enemies (Commander)
 * F12     - Zoop loot to your location
-* \       - respec
+* Backspace       - respec
 * Del     - delete all loot
 * [       - Select previous mission
 * ]       - Select next mission
 * S       - Set Deathtrap shield
-* Z       - end action skill
 * Right click in skill tree - unspec element
 * Select respec menu option at New U station - Skill Tree Loadouts
-* PGUP    - Ping
-* B       - show bounty menu (Badass Bounties)
-* N       - show active bounties (Badass Bounties)
+* PGUP    - Ping (delme)
+* Z       - end action skill (delme)
+
