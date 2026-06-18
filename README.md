@@ -40,6 +40,7 @@ Community Patch is enabled.
 * F10     - reset vendors (Shop Reseter)
 * F11     - Respawn enemies (Commander)
 * F12     - Zoop loot to your location
+* Backslach - random skin
 * Backspace       - respec
 * Del     - delete all loot
 * [       - Select previous mission
@@ -47,6 +48,5 @@ Community Patch is enabled.
 * S       - Set Deathtrap shield
 * Right click in skill tree - unspec element
 * Select respec menu option at New U station - Skill Tree Loadouts
-* PGUP    - Ping (delme)
-* Z       - end action skill (delme)
+
 
