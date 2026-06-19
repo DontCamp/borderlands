@@ -1,0 +1,15 @@
+{
+    "options": {
+        "last_station": [],
+        "last_station2": [],
+        "last_station3": [],
+        "specific_station": "",
+        "specific_station2": "",
+        "specific_station3": "",
+        "Alt Use Type": "Current Objective"
+    },
+    "keybinds": {
+        "Set Fast Travel Location": null
+    },
+    "enabled": true
+}

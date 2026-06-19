@@ -1,0 +1,11 @@
+{
+    "options": {
+        "Compatibility Mode": "Vanilla/UCP",
+        "Enable Spawn Sound": true,
+        "Enable Player Dropped Sound": true,
+        "Sound Event": "Coop-Ding",
+        "Enable Dynamic Markers": false,
+        "Marker Type": "Customization Station"
+    },
+    "enabled": true
+}

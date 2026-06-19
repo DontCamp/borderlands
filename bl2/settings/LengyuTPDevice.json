@@ -1,0 +1,17 @@
+{
+    "options": {
+        "Show Tips": true,
+        "Print Console Command": false
+    },
+    "keybinds": {
+        "mark location": "F2",
+        "teleport": "F3",
+        "change to slot 1": null,
+        "change to slot 2": null,
+        "change to slot 3": null,
+        "teleport player2 to host player": null,
+        "teleport player3 to host player": null,
+        "teleport player4 to host player": null
+    },
+    "enabled": true
+}

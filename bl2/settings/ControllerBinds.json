@@ -1,0 +1,407 @@
+{
+    "options": {
+        "ModBinds": {
+            "Alt Use Fast Travel": {
+                "Set Fast Travel Location": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "blimgui": {
+                "Test Window": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Badass Bounties": {
+                "Show Bounty Menu": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Show Active Bounties": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Bank & Stash Anywhere": {
+                "Open Bank": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Open Stash": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Borderlands 2 Map Reloader": {
+                "Quickload w/o Saving": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Quickload w/ Saving": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Toggle Location Restore": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Save Location": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "BSABT": {
+                "Show FT": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Cleaning Up Pandora": {
+                "Sell Backpack Item": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Death Trap Memory Program": {
+                "Memorize shield data": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Deathtrap Shield": {
+                "Set Deathtrap Shield": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Dialog Skipper": {
+                "Skip Dialog": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Toggle Autoskip": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Emotes": {
+                "Play Emote": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Next Emote": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Previous Emote": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Stop Emote": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "End Action Skill": {
+                "Kill Skill Key": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Farm Counter": {
+                "Toggle Farming": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Get Farm Name": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Get Farm Count": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Increase Farm Count": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Decrease Farm Count": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Grenade Jump Key": {
+                "Throw Default Frag": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Grenade Mod Quick Switcher": {
+                "Switch Grenade Mod": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "lengyu TP Device": {
+                "mark location": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "teleport": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "change to slot 1": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "change to slot 2": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "change to slot 3": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "teleport player2 to host player": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "teleport player3 to host player": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "teleport player4 to host player": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Loot Collector": {
+                "Collect Loots": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Delete Whites and Greens": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Delete All Loots": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Mission Selector": {
+                "Select next Mission": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Select previous Mission": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "NoCap": {
+                "Reapply fixes": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Ping!": {
+                "Ping": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Respec HotKey": {
+                "Respec": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Shop Reseter": {
+                "reset shop": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Skin Randomizer": {
+                "Randomize": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Sprint Adjuster": {
+                "Toggle active": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Time of Day Changer": {
+                "Set Day": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Set Night": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Increment Time": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Weapon Quick Switcher": {
+                "Last Used Weapon": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Collision Visualizer": {
+                "Toggle Kill Volumes": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Toggle Collision Volumes": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Toggle Fake Meshes": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            },
+            "Commander": {
+                "Save Position": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Restore Position": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Teleport to Spawn": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Teleport Forward": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Zero": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "NumPadZero": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "One": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "NumPadOne": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Two": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "NumPadTwo": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Three": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "NumPadThree": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Four": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "NumPadFour": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Five": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "NumPadFive": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Six": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "NumPadSix": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Seven": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "NumPadSeven": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Eight": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "NumPadEight": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Nine": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "NumPadNine": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Change Game Speed": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Increase Game Speed": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Decrease Game Speed": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "World Freeze": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Toggle HUD": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Toggle Third Person": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Quit Without Saving": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                },
+                "Respawn Enemies": {
+                    "buttonHeld": null,
+                    "buttonCombo": []
+                }
+            }
+        }
+    },
+    "enabled": true
+}

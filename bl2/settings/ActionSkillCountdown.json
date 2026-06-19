@@ -1,0 +1,19 @@
+{
+    "options": {
+        "Text Colour": {
+            "Red": 255,
+            "Green": 0,
+            "Blue": 0,
+            "Alpha": 215
+        },
+        "Counter Position": {
+            "X Position": 0,
+            "Y Position": 0
+        },
+        "Counter Size": 110,
+        "Font": "WillowBody",
+        "Enable Movement Keys": false,
+        "Show in Pause Menu": false
+    },
+    "enabled": true
+}

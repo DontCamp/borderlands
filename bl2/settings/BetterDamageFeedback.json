@@ -1,0 +1,63 @@
+{
+    "options": {
+        "Damage Colours": {
+            "Normal": {
+                "Red": 70,
+                "Green": 70,
+                "Blue": 70,
+                "Crit Red": 100,
+                "Crit Green": 35,
+                "Crit Blue": 35
+            },
+            "Explosive": {
+                "Red": 50,
+                "Green": 50,
+                "Blue": 0,
+                "Crit Red": 100,
+                "Crit Green": 100,
+                "Crit Blue": 0
+            },
+            "Fire": {
+                "Red": 80,
+                "Green": 20,
+                "Blue": 0,
+                "Crit Red": 100,
+                "Crit Green": 50,
+                "Crit Blue": 0
+            },
+            "Shock": {
+                "Red": 0,
+                "Green": 15,
+                "Blue": 80,
+                "Crit Red": 0,
+                "Crit Green": 40,
+                "Crit Blue": 100
+            },
+            "Corrosive": {
+                "Red": 0,
+                "Green": 70,
+                "Blue": 0,
+                "Crit Red": 40,
+                "Crit Green": 100,
+                "Crit Blue": 0
+            },
+            "Slag": {
+                "Red": 15,
+                "Green": 0,
+                "Blue": 80,
+                "Crit Red": 40,
+                "Crit Green": 0,
+                "Crit Blue": 100
+            }
+        },
+        "Hide Damage Number": false,
+        "Crit Particle": true,
+        "Coloured Crits": true,
+        "Larger Crits": true,
+        "Hit Sounds": true,
+        "Crit Sound": true,
+        "Crit Sound Effect": "Click",
+        "Play Sounds From Player": true
+    },
+    "enabled": true
+}

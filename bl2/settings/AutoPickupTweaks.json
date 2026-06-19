@@ -1,0 +1,26 @@
+{
+    "options": {
+        "Auto Pickup Tweaks Options": {
+            "Chest Items": true,
+            "Health Vials": true,
+            "Shield Boosters": true,
+            "Money": true,
+            "Eridium": true,
+            "Seraph Crystals": true,
+            "Torgue Tokens": true,
+            "Moonstones": true,
+            "Auto Pickup Distance": 350,
+            "Ammo Settings": {
+                "Assualt Rifle Bullets": true,
+                "SMG Bullets": true,
+                "Shotgun Shells": true,
+                "Pistol Bullets": true,
+                "Sniper Bullets": true,
+                "Rockets": true,
+                "Grenades": true,
+                "Laser Cells": true
+            }
+        }
+    },
+    "enabled": true
+}

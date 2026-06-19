@@ -1,0 +1,9 @@
+{
+    "options": {
+        "Custom Sell Backpack Item Key": false
+    },
+    "keybinds": {
+        "Sell Backpack Item": null
+    },
+    "enabled": true
+}

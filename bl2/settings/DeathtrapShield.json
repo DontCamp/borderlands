@@ -1,0 +1,9 @@
+{
+    "options": {
+        "Actions": {}
+    },
+    "keybinds": {
+        "Set Deathtrap Shield": "S"
+    },
+    "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+    "options": {
+        "Bullets": true,
+        "Projectiles": true,
+        "Grenades": true,
+        "Melee": true,
+        "Slam": true
+    },
+    "enabled": true
+}

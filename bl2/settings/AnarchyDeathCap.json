@@ -1,0 +1,9 @@
+{
+    "options": {
+        "Max stacks to lose on death": 50,
+        "Requires Rational Anarchist": true,
+        "Persists on game quit": true,
+        "persistent_anarchy_data": {}
+    },
+    "enabled": true
+}

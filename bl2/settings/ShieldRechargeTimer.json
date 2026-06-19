@@ -1,0 +1,22 @@
+{
+    "options": {
+        "Actions": {},
+        "Text Colour": {
+            "Red": 0,
+            "Green": 160,
+            "Blue": 255,
+            "Alpha": 255
+        },
+        "Timer Position": {
+            "X Position": 112,
+            "Y Position": 484
+        },
+        "Timer Size": 120,
+        "Font": "WillowBody",
+        "Enable Movement Keys": false,
+        "Show in Pause Menu": false,
+        "Only when Depleted": false,
+        "Only with Roid Shield": false
+    },
+    "enabled": true
+}

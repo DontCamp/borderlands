@@ -1,0 +1,12 @@
+{
+    "options": {
+        "Save current type to file": "Save",
+        "Save same type to file": "Save All",
+        "Load from files": "Load",
+        "FirstPersonMeshFOV": 45,
+        "PlayerViewOffset.X": 20,
+        "PlayerViewOffset.Y": 4,
+        "PlayerViewOffset.Z": 2
+    },
+    "enabled": true
+}

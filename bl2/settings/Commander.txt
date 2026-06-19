@@ -1,0 +1,12 @@
+Toggle HUD:
+py get_pc().myHUD.ToggleHUD()
+
+Toggle Third Person:
+py get_pc().SetBehindView(not get_pc().bBehindView)
+
+Quit Without Saving:
+py get_pc().ReturnToTitleScreen(True, False)
+
+Respawn Enemies:
+set PopulationOpportunityDen bIsWaitingForRespawn True
+set PopulationOpportunityDen RespawnDelayStartTime -10000

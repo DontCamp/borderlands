@@ -15,7 +15,7 @@ Write-Host "  Installing PyInstaller..." -ForegroundColor Cyan
 pip install pyinstaller --quiet
 
 Write-Host "  Building exe..." -ForegroundColor Cyan
-pyinstaller --onefile --name "bl2-mods-updater" bl2-mods-updater.py
+pyinstaller --onefile --name "bl2-mods-updater" --icon="icon.ico" bl2-mods-updater.py
 
 Write-Host ""
 Write-Host "  Done! Exe is at dist\file.exe" -ForegroundColor Green

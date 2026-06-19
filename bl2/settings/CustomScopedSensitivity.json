@@ -1,0 +1,10 @@
+{
+    "options": {
+        "Dahl Sight Sensitivity Multiplier": 25,
+        "Vladof Sight Sensitivity Multiplier": 21,
+        "Maliwan Sight Sensitivity Multiplier": 18,
+        "Jakobs Sight Sensitivity Multiplier": 15,
+        "Hyperion Sight Sensitivity Multiplier": 12
+    },
+    "enabled": true
+}

@@ -1,5 +1,6 @@
 """
 Borderlands 2 Mod Updater
+Console-based auto-updater. Zero external dependencies, no persistent storage.
 """
 
 import os
@@ -12,15 +13,16 @@ import urllib.error
 import tempfile
 import time
 import re
+import json
 from pathlib import Path
 
 # ── Configuration ─────────────────────────────────────────────────────────────
-UPDATER_VERSION  = "0.0.1"
 STEAM_APP_ID     = "49520"
 GAME_FOLDER_NAME = "Borderlands 2"
 VERSION_URL      = "https://github.com/dontcamp/borderlands/releases/latest/download/bl2-mods-dontcamp-version.txt"
 MOD_ZIP_URL      = "https://github.com/dontcamp/borderlands/releases/latest/download/bl2-mods.zip"
 VERSION_MARKER   = "bl2-mods-dontcamp-version.txt"
+UPDATER_VERSION  = "1.1.0"
 SDK_MODS_DIR     = "sdk_mods"
 SETTINGS_DIR     = "sdk_mods/settings"
 # ──────────────────────────────────────────────────────────────────────────────
@@ -28,10 +30,11 @@ SETTINGS_DIR     = "sdk_mods/settings"
 DIVIDER = "─" * 52
 
 
+
 def banner():
     print()
     print("  ╔══════════════════════════════════════════════════╗")
-    print("  ║    DONTCAMP.COM BORDERLANDS 2  ·  MOD UPDATER    ║")
+    print("  ║    donntcamp.com BORDERLANDS 2 · MOD UPDATER     ║")
     print("  ╚══════════════════════════════════════════════════╝")
     print(f"  version {UPDATER_VERSION}")
     print()
@@ -105,21 +108,44 @@ def find_game() -> Path | None:
 
 # ── Version helpers ────────────────────────────────────────────────────────────
 
-def fetch_remote_version() -> str | None:
+def fetch_remote_versions() -> dict | None:
+    """Fetch version.json from server. Returns dict with mod_version and settings_version."""
     try:
         with urllib.request.urlopen(VERSION_URL, timeout=10) as r:
-            return r.read().decode().strip()
+            return json.loads(r.read().decode())
     except Exception:
         return None
 
 
-def read_local_version(game_dir: Path) -> str | None:
+def read_local_versions(game_dir: Path) -> dict:
+    """
+    Read local marker file. Returns dict with mod_version and settings_version.
+    Handles legacy plain-text version files by treating them as old mod_version
+    with no settings_version, which will trigger a settings wipe prompt.
+    """
     marker = game_dir / VERSION_MARKER
-    return marker.read_text(encoding="utf-8").strip() if marker.exists() else None
+    if marker.exists():
+        content = marker.read_text(encoding="utf-8").strip()
+        try:
+            data = json.loads(content)
+            if isinstance(data, dict):
+                return {
+                    "mod_version": data.get("mod_version"),
+                    "settings_version": data.get("settings_version"),
+                }
+            # Legacy format: json parsed but was a bare number e.g. 1
+            return {"mod_version": str(data), "settings_version": None}
+        except json.JSONDecodeError:
+            # Legacy plain-text format — treat as old mod version, no settings version
+            return {"mod_version": content, "settings_version": None}
+    return {"mod_version": None, "settings_version": None}
 
 
-def save_local_version(game_dir: Path, ver: str):
-    (game_dir / VERSION_MARKER).write_text(ver, encoding="utf-8")
+def save_local_versions(game_dir: Path, mod_ver: str, settings_ver: str):
+    (game_dir / VERSION_MARKER).write_text(
+        json.dumps({"mod_version": mod_ver, "settings_version": settings_ver}, indent=4),
+        encoding="utf-8"
+    )
 
 
 # ── Download ───────────────────────────────────────────────────────────────────
@@ -138,39 +164,65 @@ def download(url: str, dest: Path):
 
 # ── Mod install helpers ────────────────────────────────────────────────────────
 
-def clear_sdk_mods(game_path: Path):
+def clear_sdk_mods(game_path: Path, wipe_settings: bool = False):
     """
-    Delete everything inside sdk_mods/ except the settings subfolder.
-    If settings/ doesn't exist this is a full wipe of sdk_mods/.
+    Delete everything inside sdk_mods/ except the settings subfolder
+    (unless wipe_settings is True).
+    Requires __main__.py to exist in sdk_mods/ as a safety check.
     """
     sdk_dir = game_path / SDK_MODS_DIR
     if not sdk_dir.exists():
         return
 
+    if not (sdk_dir / "__main__.py").exists():
+        err("Safety check failed: __main__.py not found in sdk_mods/.")
+        err("Refusing to delete — this may not be a valid mods directory.")
+        input("\n  Press Enter to exit.")
+        sys.exit(1)
+
     settings_dir = (game_path / SETTINGS_DIR).resolve()
-    preserve_settings = settings_dir.exists()
+    preserve_settings = settings_dir.exists() and not wipe_settings
 
     for item in sdk_dir.iterdir():
         if preserve_settings and item.resolve() == settings_dir:
-            continue  # leave settings folder alone
+            continue
         if item.is_dir():
             shutil.rmtree(item)
         else:
             item.unlink()
 
 
-def extract_zip(zip_path: Path, game_path: Path, first_install: bool):
+def clear_settings(game_path: Path):
+    """
+    Delete everything inside sdk_mods/settings/.
+    Requires python-sdk.json to exist as a safety check.
+    Called only when wipe_settings is True.
+    """
+    settings_dir = game_path / SETTINGS_DIR
+    if not settings_dir.exists():
+        return
+
+    if not (settings_dir / "python-sdk.json").exists():
+        err("Safety check failed: python-sdk.json not found in sdk_mods/settings/.")
+        err("Refusing to delete — this may not be a valid settings directory.")
+        input("\n  Press Enter to exit.")
+        sys.exit(1)
+
+    shutil.rmtree(settings_dir)
+    settings_dir.mkdir()
+
+
+def extract_zip(zip_path: Path, game_path: Path, first_install: bool, wipe_settings: bool = False):
     """
     Extract zip to game_path.
-    On updates, skip any entries that land inside sdk_mods/settings/.
+    On updates, skip entries inside sdk_mods/settings/ unless wipe_settings is True.
     """
     with zipfile.ZipFile(zip_path, "r") as zf:
         for entry in zf.infolist():
-            # Normalise to forward slashes for comparison
             entry_path = entry.filename.replace("\\", "/")
 
-            if not first_install and entry_path.startswith(SETTINGS_DIR):
-                continue  # preserve user settings on updates
+            if not first_install and not wipe_settings and entry_path.startswith(SETTINGS_DIR):
+                continue
 
             target = game_path / entry.filename
             if entry.is_dir():
@@ -181,30 +233,25 @@ def extract_zip(zip_path: Path, game_path: Path, first_install: bool):
                     shutil.copyfileobj(src, dst)
 
 
-
 def fix_text_mod_loader_config(game_path: Path):
     """
     After extraction, patch text_mod_loader.json in place by replacing
     any path values pointing to patch.txt with the correct local path.
     Only the path strings are changed; all other content is preserved.
     """
-    import json
     config_path = game_path / SETTINGS_DIR / "text_mod_loader.json"
     if not config_path.exists():
         return
 
     correct_patch = str(game_path / "Binaries" / "patch.txt")
-
     config = json.loads(config_path.read_text(encoding="utf-8"))
     options = config.get("options", {})
 
-    # Fix auto_enable list
     options["auto_enable"] = [
         correct_patch if Path(p).name == "patch.txt" else p
         for p in options.get("auto_enable", [])
     ]
 
-    # Fix mod_info keys and any path values inside each entry
     old_mod_info = options.get("mod_info", {})
     new_mod_info = {}
     for key, val in old_mod_info.items():
@@ -213,6 +260,26 @@ def fix_text_mod_loader_config(game_path: Path):
     options["mod_info"] = new_mod_info
 
     config_path.write_text(json.dumps(config, indent=4), encoding="utf-8")
+
+
+def prompt_wipe_settings() -> bool:
+    """
+    Ask the user whether to wipe settings.
+    Returns True if confirmed, False otherwise.
+    """
+    print()
+    print("  ⚠  A new settings version is available.")
+    print("  There is a new co-op mod settings configuration.")
+    print("  You will need to re-configure your keybinds and")
+    print("  mod settings after this update.")
+    answer = input("  Wipe settings? (y/N): ").strip().lower()
+    return answer == "y"
+
+
+def launch_game():
+    """Launch Borderlands 2 via Steam protocol URL."""
+    info("Launching Borderlands 2...")
+    os.startfile(f"steam://rungameid/{STEAM_APP_ID}")
 
 
 # ── Main ───────────────────────────────────────────────────────────────────────
@@ -233,25 +300,45 @@ def main():
 
     # 2. Check versions
     info("Checking for updates...")
-    remote_ver = fetch_remote_version()
-    if not remote_ver:
+    remote = fetch_remote_versions()
+    if not remote:
         err("Could not reach update server. Check your connection.")
         input("\n  Press Enter to exit.")
         sys.exit(1)
 
-    local_ver = read_local_version(game_path)
-    first_install = local_ver is None
-    info(f"Installed : {local_ver or 'none'}")
-    info(f"Latest    : {remote_ver}")
+    remote_mod_ver      = remote.get("mod_version")
+    remote_settings_ver = remote.get("settings_version")
+
+    local               = read_local_versions(game_path)
+    local_mod_ver       = local.get("mod_version")
+    local_settings_ver  = local.get("settings_version")
+
+    first_install       = local_mod_ver is None
+
+    info(f"Mods      — installed: {local_mod_ver or 'none':>6}   latest: {remote_mod_ver}")
+    info(f"Settings  — installed: {local_settings_ver or 'none':>6}   latest: {remote_settings_ver}")
     rule()
 
-    if local_ver == remote_ver:
-        ok(f"Mods are already up to date (v{remote_ver})")
-        auto_close(2)
+    # 3. Determine if settings wipe is needed and prompt user
+    settings_outdated = local_settings_ver != remote_settings_ver
+    wipe_settings = False
+    settings_exist = (game_path / SETTINGS_DIR).exists()
+    if not first_install and settings_outdated and settings_exist:
+        wipe_settings = prompt_wipe_settings()
+        if wipe_settings:
+            ok("Settings will be wiped.")
+        else:
+            info("Keeping existing settings.")
+        rule()
+
+    # 4. If mods are up to date, launch and exit
+    if local_mod_ver == remote_mod_ver and not wipe_settings:
+        ok("Mods are already up to date.")
+        launch_game()
         return
 
-    # 3. Download to a temp file
-    info(f"Downloading mods v{remote_ver}...")
+    # 5. Download zip
+    info(f"Downloading mods v{remote_mod_ver}...")
     try:
         with tempfile.NamedTemporaryFile(suffix=".zip", delete=False) as tmp:
             tmp_path = Path(tmp.name)
@@ -261,31 +348,38 @@ def main():
         input("\n  Press Enter to exit.")
         sys.exit(1)
 
-    # 4. Clear sdk_mods/ (preserving settings/ on updates)
+    # 6. Clear sdk_mods/
     if first_install:
         info("Installing mods...")
     else:
-        info("Removing old mod files (preserving settings)...")
-        clear_sdk_mods(game_path)
+        info("Removing old mod files" + (" and settings..." if wipe_settings else " (preserving settings)..."))
+        if wipe_settings:
+            clear_settings(game_path)
+        clear_sdk_mods(game_path, wipe_settings=False)
 
-    # 5. Extract zip, skipping sdk_mods/settings/ on updates
+    # 7. Extract
     info("Extracting...")
-    extract_zip(tmp_path, game_path, first_install)
+    extract_zip(tmp_path, game_path, first_install, wipe_settings)
     tmp_path.unlink(missing_ok=True)
 
-    # 6. Fix text_mod_loader config paths on first install
-    if first_install:
+    # 8. Fix text_mod_loader config on first install or settings wipe
+    if first_install or wipe_settings:
         info("Configuring text mod loader...")
         fix_text_mod_loader_config(game_path)
 
-    # 7. Write version marker
-    save_local_version(game_path, remote_ver)
+    # 9. Save version marker
+    # If user declined the wipe, keep their local settings version unchanged
+    saved_settings_ver = remote_settings_ver if (first_install or wipe_settings) else local_settings_ver
+    save_local_versions(game_path, remote_mod_ver, saved_settings_ver)
 
     rule()
-    ok(f"Mods {'installed' if first_install else 'updated'} to v{remote_ver} successfully!")
-    if not first_install:
+    ok(f"Mods {'installed' if first_install else 'updated'} to v{remote_mod_ver} successfully!")
+    if wipe_settings:
+        info("Settings updated to v{}.".format(remote_settings_ver))
+    elif not first_install:
         info("User settings were preserved.")
-    input("\n  Press Enter to exit. ")
+    auto_close(2)
+    launch_game()
 
 
 if __name__ == "__main__":

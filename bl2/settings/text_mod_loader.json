@@ -1,0 +1,20 @@
+{
+    "options": {
+        "auto_enable": [
+            "E:\\SteamLibrary\\steamapps\\common\\Borderlands 2\\Binaries\\patch.txt"
+        ],
+        "mod_info": {
+            "E:\\SteamLibrary\\steamapps\\common\\Borderlands 2\\Binaries\\patch.txt": {
+                "modify_time": 1781747687.8887959,
+                "ignore_me": false,
+                "spark_service_idx": null,
+                "recommended_game": "BL2",
+                "title": "patch.txt",
+                "author": "Text Mod Loader",
+                "version": "",
+                "description": ""
+            }
+        },
+        "version": 2
+    }
+}

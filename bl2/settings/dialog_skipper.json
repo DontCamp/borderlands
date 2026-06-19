@@ -1,0 +1,11 @@
+{
+    "options": {
+        "Autoskip Dialog": true,
+        "Skip All Dialog": false
+    },
+    "keybinds": {
+        "Skip Dialog": null,
+        "Toggle Autoskip": null
+    },
+    "enabled": true
+}

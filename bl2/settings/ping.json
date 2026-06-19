@@ -1,0 +1,50 @@
+{
+    "options": {
+        "Ping Duration": 5.0,
+        "Ping Sound": "Shield_Confirm",
+        "Your Ping Color": {
+            "Text R": 105,
+            "Text G": 215,
+            "Text B": 255,
+            "Text A": 180,
+            "Background R": 51,
+            "Background G": 16,
+            "Background B": 50,
+            "Background A": 169
+        },
+        "Ping Color 2": {
+            "Text R": 255,
+            "Text G": 204,
+            "Text B": 0,
+            "Text A": 180,
+            "Background R": 0,
+            "Background G": 0,
+            "Background B": 0,
+            "Background A": 200
+        },
+        "Ping Color 3": {
+            "Text R": 20,
+            "Text G": 255,
+            "Text B": 169,
+            "Text A": 180,
+            "Background R": 0,
+            "Background G": 0,
+            "Background B": 0,
+            "Background A": 200
+        },
+        "Ping Color 4": {
+            "Text R": 204,
+            "Text G": 83,
+            "Text B": 250,
+            "Text A": 180,
+            "Background R": 0,
+            "Background G": 0,
+            "Background B": 0,
+            "Background A": 200
+        }
+    },
+    "keybinds": {
+        "Ping": null
+    },
+    "enabled": true
+}

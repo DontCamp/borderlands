@@ -1,0 +1,13 @@
+{
+    "options": {
+        "Auto Teleport": true,
+        "Vehicle Family": "Sandskiff",
+        "Vehicle Types": {
+            "Technical Type": "Catapult",
+            "Runner Type": "Rocket Launcher",
+            "Sandskiff Type": "Rocket Launcher",
+            "Fanboat Type": "Corrosive"
+        }
+    },
+    "enabled": true
+}

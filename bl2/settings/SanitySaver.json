@@ -1,0 +1,8 @@
+{
+    "options": {
+        "Actions": {},
+        "Compress Saves": true,
+        "Reroll Vendors on Level Transitions": false
+    },
+    "enabled": true
+}

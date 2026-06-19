@@ -1,0 +1,8 @@
+{
+    "options": {
+        "Revive Distance": 300,
+        "Revive Alert Distance": 5000,
+        "Max Reviving NPCs": 5
+    },
+    "enabled": true
+}

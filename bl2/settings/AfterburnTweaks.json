@@ -1,0 +1,26 @@
+{
+    "options": {
+        "Runner settings": {
+            "Runner Min Start Speed": 1700,
+            "Runner Speed": 3500,
+            "Runner Duration": 4,
+            "Runner Regen Rate": 20,
+            "Runner Regen Delay": 5
+        },
+        "Technical settings": {
+            "Technical Afterburn Start Speed": 2000,
+            "Technical Afterburn Speed": 4400,
+            "Technical Duration": 10,
+            "Technical Regen Rate": 20,
+            "Technical Regen Delay": 5
+        },
+        "Hovercraft settings": {
+            "Hovercraft Afterburn Start Speed": 2500,
+            "Hovercraft Afterburn Speed": 4000,
+            "Hovercraft Duration": 10,
+            "Hovercraft Regen Rate": 20,
+            "Hovercraft Regen Delay": 5
+        }
+    },
+    "enabled": true
+}

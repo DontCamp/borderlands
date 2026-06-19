@@ -1,0 +1,10 @@
+{
+    "options": {
+        "Enable Update-Feedback": true
+    },
+    "keybinds": {
+        "Show Bounty Menu": "F8",
+        "Show Active Bounties": "F9"
+    },
+    "enabled": true
+}

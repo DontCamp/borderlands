@@ -1,0 +1,75 @@
+{
+    "options": {
+        "Actions": {},
+        "Include Item Type": false,
+        "Include Part Slots": false,
+        "Font Size": 14,
+        "Remove Descriptions": false,
+        "Weapons": {
+            "Accessory": true,
+            "2nd Accessory": false,
+            "Barrel": true,
+            "Body": false,
+            "Element": false,
+            "Grip": true,
+            "Material": false,
+            "Sight": true,
+            "Stock": true,
+            "Definition": false
+        },
+        "Shields": {
+            "Accessory": false,
+            "Battery": true,
+            "Body": true,
+            "Capacitor": true,
+            "Material": false,
+            "Definition": false,
+            "Extras": true
+        },
+        "Grenades": {
+            "Accessory": false,
+            "Blast Radius": true,
+            "Child Count": true,
+            "Damage": false,
+            "Delivery": true,
+            "Material": false,
+            "Payload": false,
+            "Status Damage": false,
+            "Trigger": true,
+            "Definition": false
+        },
+        "Class Mods": {
+            "Specialization": true,
+            "Primary": true,
+            "Secondary": true,
+            "Penalty": true,
+            "Definition": false,
+            "Extras": true
+        },
+        "Relics": {
+            "Body": false,
+            "Upgrade": true,
+            "Alpha": false,
+            "Beta": false,
+            "Gamma": false,
+            "Delta": false,
+            "Epsilon": false,
+            "Zeta": false,
+            "Definition": false,
+            "Extras": true
+        },
+        "Oz Kits": {
+            "Body": false,
+            "Upgrade": true,
+            "Alpha": false,
+            "Beta": false,
+            "Gamma": false,
+            "Delta": false,
+            "Epsilon": false,
+            "Zeta": false,
+            "Definition": false,
+            "Extras": true
+        }
+    },
+    "enabled": true
+}

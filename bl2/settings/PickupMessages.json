@@ -1,0 +1,9 @@
+{
+    "options": {
+        "Max Messages": 5,
+        "Y Offset": 5,
+        "MessageSpacing": 14,
+        "Message Duration": 5
+    },
+    "enabled": true
+}

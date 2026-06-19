@@ -1,0 +1,19 @@
+{
+    "options": {
+        "Positions": {},
+        "Client Teleporting": true,
+        "Client Speed Permissions": true
+    },
+    "keybinds": {
+        "Save Position": null,
+        "Restore Position": null,
+        "Teleport to Spawn": null,
+        "Teleport Forward": null,
+        "Change Game Speed": null,
+        "Toggle HUD": null,
+        "Toggle Third Person": null,
+        "Quit Without Saving": null,
+        "Respawn Enemies": "F11"
+    },
+    "enabled": true
+}

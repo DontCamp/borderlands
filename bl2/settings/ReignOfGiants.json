@@ -1,0 +1,8 @@
+{
+    "options": {
+        "GiantPrefix": "Giant",
+        "GiantScale": 2.25,
+        "CheatMode": false
+    },
+    "enabled": true
+}

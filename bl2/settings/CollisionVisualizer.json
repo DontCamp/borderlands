@@ -1,0 +1,8 @@
+{
+    "keybinds": {
+        "Toggle Kill Volumes": null,
+        "Toggle Collision Volumes": null,
+        "Toggle Fake Meshes": null
+    },
+    "enabled": true
+}

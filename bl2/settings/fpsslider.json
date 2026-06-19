@@ -1,0 +1,7 @@
+{
+    "options": {
+        "Min FPS": 90,
+        "Max FPS": 100
+    },
+    "enabled": true
+}

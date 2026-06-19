@@ -1,0 +1,7 @@
+{
+    "options": {
+        "Fix Zero Ammo": true,
+        "Fix Swap Start Fire": true
+    },
+    "enabled": true
+}

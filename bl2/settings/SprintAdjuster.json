@@ -1,0 +1,13 @@
+{
+    "options": {
+        "Speed": 1,
+        "Air Control": {
+            "Set Air Control": true,
+            "Air Control * 10": 8
+        }
+    },
+    "keybinds": {
+        "Toggle active": null
+    },
+    "enabled": true
+}

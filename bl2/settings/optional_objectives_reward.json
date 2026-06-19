@@ -1,0 +1,8 @@
+{
+    "options": {
+        "Normal Mode Reward": 50,
+        "TVHM Reward": 100,
+        "UVHM Reward": 200
+    },
+    "enabled": true
+}

@@ -1,0 +1,29 @@
+{
+    "options": {
+        "Baserates": {
+            "NVHM baserate": 10,
+            "TVHM baserate": 10,
+            "UVHM baserate": 11
+        },
+        "Levelscales": {
+            "% for enemies 1 level higher": 500,
+            "% for enemies 1 level lower": 90,
+            "% for enemies 2 levels higher": 500,
+            "% for enemies 2 levels lower": 70,
+            "% for enemies 3 levels higher": 500,
+            "% for enemies 3 levels lower": 40,
+            "% for enemies 4 levels higher": 500,
+            "% for enemies 4 levels lower": 15,
+            "% for enemies 5 levels higher": 500,
+            "% for enemies 5 levels lower": 5,
+            "% for enemies 6 levels higher": 500,
+            "% for enemies 6 levels lower": 1
+        },
+        "Mission Rewards": {
+            "Experience percentage multiplier": 100,
+            "Credits percentage multiplier": 100,
+            "Other Currency percentage multiplier": 100
+        }
+    },
+    "enabled": true
+}

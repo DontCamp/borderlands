@@ -1,0 +1,10 @@
+{
+    "options": {
+        "Actions": {}
+    },
+    "keybinds": {
+        "Select next Mission": "RightBracket",
+        "Select previous Mission": "LeftBracket"
+    },
+    "enabled": true
+}
