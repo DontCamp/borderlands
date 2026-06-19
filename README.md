@@ -10,17 +10,19 @@ community members to play co-op together with the mods we enjoy.
 1. Download the [latest
 release](https://github.com/dontcamp/borderlands/releases/latest/download/bl2-mods-updater.exe) of the
 updater exe file.
-2. Run it!
-3. To verify that it worked, in the main game menu you should see a **Mods** menu.  You should also
-go to the Badass rank menu and look at the bottom for a message bout **UCP** to verify that the
+2. Run it!  The updater will check for updates and then run the game automatically.
+3. To verify that it worked, in the main game menu you should see a **Mods** menu.  All mods should
+be enabled.  You should also go to the Badass rank menu and look at the bottom for a message bout
+**UCP** to verify that the
 Community Patch is enabled.
 
-## BONUS - Automatic Updates
+## Tips
 
 1.  Find the game in Steam
 2.  Right click -> **Properties** -> **General** -> **Launch Options**
-3.  Add the following to the **Launch Options**, updating the path to where you saved the
-**bl2-mods-updater.exe** - `"C:\path\to\bl2-mods-updater.exe" && %command% -nolauncher -nostartupmovies -NoSplash`
+3.  Add the following to the **Launch Options**
+
+    `-nolauncher -nostartupmovies -NoSplash`
 
 
 # Default Keybinds
