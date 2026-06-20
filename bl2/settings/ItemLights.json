@@ -1,6 +1,6 @@
 {
     "options": {
-        "Weapons and Gear Only": false,
+        "Weapons and Gear Only": true,
         "Light Brightness": 4,
         "Light Radius": 100.0,
         "Light Falloff": 40
