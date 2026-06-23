@@ -30,9 +30,9 @@ Community Patch is enabled.
 * 7         - bank (BLCMM)
 * 8         - stash (BLCMM)
 * 9         - quick change (BLCMM)
-* F1        - fast travel (Better Spawns and Better Travel (BSABT) )
-* F2        - Mark location for teleport
-* F3        - Teleport
+* F1        - Teleport to spawn (Commander)
+* F2        - Mark location for teleport (Lengyu)
+* F3        - Teleport (Lengyu)
 * F4        - save location (Map Reloader)
 * F5        - Quickload w saving (Map Reloader)
 * F6        - Quickload w/o saving (Map Reloader)

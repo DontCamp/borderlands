@@ -7,7 +7,7 @@
     "keybinds": {
         "Save Position": null,
         "Restore Position": null,
-        "Teleport to Spawn": null,
+        "Teleport to Spawn": "F1",
         "Teleport Forward": null,
         "Change Game Speed": null,
         "Toggle HUD": null,
