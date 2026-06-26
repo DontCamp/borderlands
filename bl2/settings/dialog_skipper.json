@@ -1,6 +1,6 @@
 {
     "options": {
-        "Autoskip Dialog": true,
+        "Autoskip Dialog": false,
         "Skip All Dialog": false
     },
     "keybinds": {
