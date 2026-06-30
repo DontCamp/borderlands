@@ -24,7 +24,6 @@ Community Patch is enabled.
 
     `-nolauncher -nostartupmovies -NoSplash`
 
-
 # Default Keybinds
 * 0         - fast travel (BLCMM)
 * 7         - bank (BLCMM)
@@ -52,4 +51,8 @@ Community Patch is enabled.
 * *Right click in skill tree* - unspec element
 * *Select respec menu option at New U station* - Skill Tree Loadouts
 
-
+## Performance info
+* https://steamcommunity.com/sharedfiles/filedetails/?id=3127434981
+* https://steamcommunity.com/sharedfiles/filedetails/?id=2939598857
+* https://steamcommunity.com/sharedfiles/filedetails/?id=1843283046
+* https://github.com/doitsujin/dxvk/issues/4695#issuecomment-2676998541
