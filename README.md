@@ -56,3 +56,5 @@ Community Patch is enabled.
 * https://steamcommunity.com/sharedfiles/filedetails/?id=2939598857
 * https://steamcommunity.com/sharedfiles/filedetails/?id=1843283046
 * https://github.com/doitsujin/dxvk/issues/4695#issuecomment-2676998541
+* https://steamcommunity.com/app/49520/discussions/0/684117900292789119/
+* https://bl-sdk.github.io/willow2-mod-db/faq/#can-i-use-this-on-steam-decklinuxmac
