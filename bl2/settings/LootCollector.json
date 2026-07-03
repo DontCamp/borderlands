@@ -2,7 +2,7 @@
     "keybinds": {
         "Collect Loots": "F12",
         "Delete Whites and Greens": null,
-        "Delete All Loots": "Delete"
+        "Delete All Loots": null
     },
     "enabled": true
 }
