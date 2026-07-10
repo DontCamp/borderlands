@@ -25,7 +25,7 @@ Community Patch is enabled.
     `-nolauncher -nostartupmovies -NoSplash`
     
     For Linux:
-    `WINEDLLOVERRIDES="ddraw=n,b" %command% -nolauncher -nostartupmovies -NoSplash`
+    `PROTON_USE_WINED3D=1 WINEDLLOVERRIDES="ddraw=n,b" %command% -nolauncher -nostartupmovies -NoSplash`
 
 # Default Keybinds
 * 0         - fast travel (BLCMM)
