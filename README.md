@@ -23,6 +23,7 @@ Community Patch is enabled.
 3.  Add the following to the **Launch Options**
 
     `-nolauncher -nostartupmovies -NoSplash`
+    
     For Linux:
     `WINEDLLOVERRIDES="ddraw=n,b" %command% -nolauncher -nostartupmovies -NoSplash`
 
