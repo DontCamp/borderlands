@@ -27,6 +27,9 @@ Community Patch is enabled.
     For Linux:
     `PROTON_USE_WINED3D=1 WINEDLLOVERRIDES="ddraw=n,b" %command% -nolauncher -nostartupmovies -NoSplash`
 
+[pcgamingwiki essential improvements](https://www.pcgamingwiki.com/wiki/Engine:Unreal_Engine_3#Essential_improvements)
+
+
 # Default Keybinds
 * 0         - fast travel (BLCMM)
 * 7         - bank (BLCMM)
