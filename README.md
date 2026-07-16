@@ -50,7 +50,7 @@ Community Patch is enabled.
 * F12       - Zoop loot to your location
 * Backslash - random skin
 * Backspace - respec
-* Del       - delete all loot
+* Del       - delete white and green loot
 * [         - Select previous mission
 * ]         - Select next mission
 * S         - Set Deathtrap shield
