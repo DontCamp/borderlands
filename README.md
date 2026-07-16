@@ -56,6 +56,7 @@ Community Patch is enabled.
 * S         - Set Deathtrap shield
 
 * *Right click in skill tree* - unspec element
+* *C when selecting one item then hoving over another item in inventory* - Salvage parts
 * *Select respec menu option at New U station* - Skill Tree Loadouts
 
 ## Performance info
