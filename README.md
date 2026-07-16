@@ -54,6 +54,8 @@ Community Patch is enabled.
 * [         - Select previous mission
 * ]         - Select next mission
 * S         - Set Deathtrap shield
+* ;         - Skip current dialog
+* '         - Autoskip all dialog
 
 * *Right click in skill tree* - unspec element
 * *C when selecting one item then hoving over another item in inventory* - Salvage parts
