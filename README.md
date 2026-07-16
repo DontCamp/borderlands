@@ -32,6 +32,7 @@ Community Patch is enabled.
 
 # Default Keybinds
 * 0         - fast travel (BLCMM)
+* 5         - Spawn vehicle
 * 7         - bank (BLCMM)
 * 8         - stash (BLCMM)
 * 9         - quick change (BLCMM)
